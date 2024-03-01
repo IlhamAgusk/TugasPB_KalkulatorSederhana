@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="kalkulator">KALKULATOR</string>
+    <string name="masukkan_angka_pertama">Masukkan Angka Pertama</string>
+    <string name="masukkan_angka_kedua">Masukkan Angka Kedua</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">x</string>
+    <string name="div">:</string>
+    <string name="hasil">HASIL</string>
+</resources>
